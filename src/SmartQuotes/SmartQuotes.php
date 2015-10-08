@@ -8,7 +8,7 @@ abstract class SmartQuotes {
     /**
      * @var array
      */
-    protected $data = [];
+    protected $data = array();
 
 
 

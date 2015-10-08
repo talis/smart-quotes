@@ -2,7 +2,7 @@
 
 # inspired by http://stackoverflow.com/questions/20025030/convert-all-types-of-smart-quotes-with-php
 
-return [
+return array(
 
     // Windows codepage 1252
     "\xC2\x82" => "'", // U+0082⇒U+201A single low-9 quotation mark
@@ -29,4 +29,4 @@ return [
     "\xE2\x80\xB9" => "'", // U+2039 single left-pointing angle quotation mark
     "\xE2\x80\xBA" => "'", // U+203A single right-pointing angle quotation mark
 
-];
+);
