@@ -1,6 +1,6 @@
 # Smart quotes replacement toolkit
 
-*N.B. This is forked from https://github.com/talis/smart-quotes to provide PHP 5.3 compatibility*
+*N.B. This is forked from https://github.com/sebastiansulinski/smart-quotes to provide PHP 5.3 compatibility*
 
 The kit replaces all irregular - Microsoft version single and double quotes to simple - ASCII type ones.
 
